@@ -1,0 +1,5 @@
+{
+  "name": "Rental Property Calculator",
+  "description": "An interactive web application to analyze the financial viability and projected cash flow of a rental property. Enter property details, mortgage information, and expenses to receive a comprehensive breakdown of returns, key investment metrics, and long-term projections, mirroring a professional financial spreadsheet.",
+  "requestFramePermissions": []
+}
